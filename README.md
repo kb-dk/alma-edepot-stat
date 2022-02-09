@@ -1,4 +1,7 @@
 # edepot-statistics
+Delivers statistics overview of E-Depot transactions
+
+Created as a starterproject for experimenting with Vue 3 and the kb.dk version of Patternlab.
 
 ## Project setup
 ```
