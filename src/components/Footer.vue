@@ -6,6 +6,7 @@
           <h3 id="header-1605708628">Genveje</h3>
           <ul>
             <li><router-link to="/about">Om denne side</router-link></li>
+            <li>Version: {{ version }}</li>
           </ul>
         </div>
         <div
@@ -78,6 +79,11 @@
 import { defineComponent } from "vue"
 
 export default defineComponent({
-  name: "Footer"
+  name: "Footer",
+  data() {
+    return {
+      version: process.env.VUE_APP_VERSION
+    }
+  }
 })
 </script>
