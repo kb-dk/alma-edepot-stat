@@ -1,0 +1,2 @@
+1.0.0
+Første version af ny grænseflade med samme funktionalitet som den gamle
