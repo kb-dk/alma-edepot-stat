@@ -1,6 +1,7 @@
 # alma-edepot-stat
 Frontend for viewing statistics from ALMA E-Depot transactions
 
+
 ## Project setup
 ```
 npm install
