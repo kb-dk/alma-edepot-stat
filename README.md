@@ -1,7 +1,5 @@
-# edepot-statistics
-Delivers statistics overview of E-Depot transactions
-
-Created as a starterproject for experimenting with Vue 3 and the kb.dk version of Patternlab.
+# alma-edepot-stat
+Frontend for viewing statistics from ALMA E-Depot transactions
 
 ## Project setup
 ```
