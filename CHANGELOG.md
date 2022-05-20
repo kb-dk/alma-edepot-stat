@@ -3,6 +3,16 @@ All notable changes to ALMA E-depot statistics app will be documented in this fi
 
 ## [Unreleased]
 
+## [1.0.1] - 2022-05-20
+### Added
+- Fix for missing July in month dropdown
+- Added required Node version to README 
+
+
+### Changed
+
+[[1.0.1](https://github.com/kb-dk/alma-edepot-stat/tree/1.0.1)
+
 
 ## [1.0.0] - 2022-02-10
 ### Added

@@ -1,5 +1,6 @@
 # alma-edepot-stat
 Frontend for viewing statistics from ALMA E-Depot transactions
+Use node version 14.5.0
 
 
 ## Project setup
