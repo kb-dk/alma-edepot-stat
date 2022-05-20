@@ -33,6 +33,7 @@
               <option value="4">April</option>
               <option value="5">Maj</option>
               <option value="6">Juni</option>
+              <option value="7">Juli</option>
               <option value="8">August</option>
               <option value="9">September</option>
               <option value="10">Oktober</option>
